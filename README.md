@@ -53,3 +53,6 @@ This repository contains a Python-based Sales Dashboard application that allows 
 
 This project demonstrates how to use Python’s powerful libraries to create a user-friendly tool for sales data analysis and visualization. It’s designed to help both business owners and analysts make informed decisions based on their sales performance data.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e40cd09a-288c-4084-8732-74a39cbaf8a7)
