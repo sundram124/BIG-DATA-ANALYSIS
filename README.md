@@ -14,7 +14,6 @@
 
 Here’s a simplified and concise description for your GitHub upload that you can easily copy and paste:
 
----
 
 **Sales Dashboard - Data Analysis and Visualization Tool**
 
